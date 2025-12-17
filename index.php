@@ -91,7 +91,7 @@
 
 <!-- KONFIG -->
 <script>
-  var musik = "musik.mp3";
+  var musik = "musik (2).mp3";
   var background = "background.jpg";
   var gambarStiker1 = "1.gif";
   var gambarStiker2 = "2.gif";
